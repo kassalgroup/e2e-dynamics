@@ -1,0 +1,66 @@
+Cyclobutanone
+cyclobutanone
+Running SCF
+SCF not converged.
+SCF energy = -212.052172735462
+Restarting SCF with second order method
+converged SCF energy = -226.063886931358
+SCF complete
+HOMO index: 19
+Number of MOs found: 57
+Error tol: 0.005
+Min Energy: 2500
+Max Energy: 17500.0
+ 
+Iteration Error: 1
+Trying with energy: 2500
+Thread 1 working on MO #1
+0.9999995844910152
+Thread 1 working on MO #2
+0.9999999995835341
+Thread 1 working on MO #3
+0.9999999995926682
+Thread 1 working on MO #4
+0.9999999995792006
+Thread 1 working on MO #5
+0.9999999995797059
+Thread 1 working on MO #6
+0.9999999722247187
+Thread 1 working on MO #7
+1.0000000005631378
+Thread 1 working on MO #8
+0.9999999999658816
+Thread 1 working on MO #9
+0.9999999999618482
+Thread 1 working on MO #10
+0.9999999994119307
+Thread 1 working on MO #11
+1.000000000007746
+Thread 1 working on MO #12
+1.0000000000035325
+Thread 1 working on MO #13
+1.0000000000152243
+Thread 1 working on MO #14
+0.9999999999923744
+Thread 1 working on MO #15
+1.0000000000549487
+Thread 1 working on MO #16
+0.9999999999737439
+Thread 1 working on MO #17
+1.0000000001901548
+Thread 1 working on MO #18
+1.0000000000577522
+Thread 1 working on MO #19
+0.9999999992357516
+Thread 1 working on MO #20
+1.0000000003239293
+Total State Error: 0.0028876411407115893
+Total Rotational Error: 2.2266678658753046e-15
+Total Error: 0.002887641140713816
+Total T gates: 4.9298006518e10
+Maximum Bond Dimension: 109
+ 
+The computed error is smaller than the error budget. Try decreasing the energy to increase the error.
+ 
+ 
+Finished

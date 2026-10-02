@@ -1,0 +1,38 @@
+CH4
+ch4
+Running SCF
+SCF not converged.
+SCF energy = -38.7743091893634
+Restarting SCF with second order method
+converged SCF energy = -38.8487699936595
+SCF complete
+HOMO index: 5
+Number of MOs found: 17
+Error tol: 0.005
+Min Energy: 1400
+Max Energy: 9800.0
+ 
+Iteration Error: 1
+Trying with energy: 1400
+Thread 1 working on MO #1
+0.9999996937685149
+Thread 1 working on MO #2
+0.999999981649572
+Thread 1 working on MO #3
+0.9999999999882577
+Thread 1 working on MO #4
+0.999999999828507
+Thread 1 working on MO #5
+1.000000000046498
+Thread 1 working on MO #6
+0.9999999998171883
+Total State Error: 0.0020238461481308753
+Total Rotational Error: 6.029868022784454e-16
+Total Error: 0.002023846148131478
+Total T gates: 4.015264619e9
+Maximum Bond Dimension: 82
+ 
+The computed error is smaller than the error budget. Try decreasing the energy to increase the error.
+ 
+ 
+Finished

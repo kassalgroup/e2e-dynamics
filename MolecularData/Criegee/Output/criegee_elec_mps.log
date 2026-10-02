@@ -1,0 +1,55 @@
+Criegee
+criegee
+Running SCF
+SCF not converged.
+SCF energy = -186.330772513748
+Restarting SCF with second order method
+
+WARN: HOMO 0.036883271904505854 > LUMO -0.44772253373663035 was found in the canonicalized orbitals.
+
+converged SCF energy = -186.368719517283
+SCF complete
+HOMO index: 12
+Number of MOs found: 31
+Error tol: 0.005
+Min Energy: 3200
+Max Energy: 22400.0
+ 
+Iteration Error: 1
+Trying with energy: 3200
+Thread 1 working on MO #1
+0.9999999581001122
+Thread 1 working on MO #2
+0.9999999580830468
+Thread 1 working on MO #3
+0.9999999999854239
+Thread 1 working on MO #4
+0.9999999971648073
+Thread 1 working on MO #5
+0.9999999971683771
+Thread 1 working on MO #6
+0.9999999999518604
+Thread 1 working on MO #7
+0.9999999999697852
+Thread 1 working on MO #8
+1.0000000000116944
+Thread 1 working on MO #9
+0.9999999999921333
+Thread 1 working on MO #10
+0.9999999999963629
+Thread 1 working on MO #11
+0.9999999999960819
+Thread 1 working on MO #12
+0.9999999999866444
+Thread 1 working on MO #13
+0.9999999999849084
+Total State Error: 0.0015443892489592286
+Total Rotational Error: 1.2344161974363677e-15
+Total Error: 0.001544389248960463
+Total T gates: 1.6713818533e10
+Maximum Bond Dimension: 88
+ 
+The computed error is smaller than the error budget. Try decreasing the energy to increase the error.
+ 
+ 
+Finished

@@ -1,0 +1,19 @@
+molecule criegee {
+Cl         1.97580       -0.75970        0.00260
+Cl        -2.30200       -0.09980        0.00120
+F          0.32100        0.86490        1.09160
+F          0.32670        0.86810       -1.09030
+C          0.40700        0.06500       -0.00030
+C         -0.72850       -0.93840       -0.00480
+H         -0.70390       -1.57390        0.88510
+H         -0.70490       -1.56500       -0.90100
+}
+
+set basis cc-pvdz
+optimize('mp2')
+
+set hessian_write on
+E, wfn = frequencies('mp2',  return_wfn=True)
+frequencies('mp2',  return_wfn=True)
+wfn.hessian().print_out()
+#print(wfn.frequency_analysis['q'])

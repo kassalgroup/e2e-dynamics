@@ -1,0 +1,5 @@
+elec_isp_eps=0.002023846148131478
+E_elec=1400
+L_elec=121.53145563992335
+n_qubits_elec=11
+elec_bond_dim_max=82

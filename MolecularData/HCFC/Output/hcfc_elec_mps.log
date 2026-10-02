@@ -1,0 +1,95 @@
+HCFC
+hcfc
+Running SCF
+SCF not converged.
+SCF energy = -1176.98335529389
+Restarting SCF with second order method
+SCF not converged.
+SCF energy = -1187.1877427215
+SCF complete
+HOMO index: 33
+Number of MOs found: 66
+Error tol: 0.005
+Min Energy: 18000
+Max Energy: 126000.0
+ 
+Iteration Error: 1
+Trying with energy: 18000
+Thread 1 working on MO #1
+0.9999999980514305
+Thread 1 working on MO #2
+0.9999999980205091
+Thread 1 working on MO #3
+0.99999999999601
+Thread 1 working on MO #4
+0.9999999999896173
+Thread 1 working on MO #5
+0.9999999999939894
+Thread 1 working on MO #6
+0.999999999991585
+Thread 1 working on MO #7
+0.9999999998007729
+Thread 1 working on MO #8
+0.9999999998226259
+Thread 1 working on MO #9
+1.0000000000102258
+Thread 1 working on MO #10
+0.9999999999970808
+Thread 1 working on MO #11
+1.0000000000048954
+Thread 1 working on MO #12
+1.0000000000141334
+Thread 1 working on MO #13
+0.9999999999147919
+Thread 1 working on MO #14
+1.000000000127646
+Thread 1 working on MO #15
+0.9999999999907513
+Thread 1 working on MO #16
+0.9999999999901988
+Thread 1 working on MO #17
+0.9999999999231228
+Thread 1 working on MO #18
+0.9999999999716265
+Thread 1 working on MO #19
+0.9999999999852422
+Thread 1 working on MO #20
+0.9999999999709448
+Thread 1 working on MO #21
+0.9999999999965132
+Thread 1 working on MO #22
+0.9999999999892497
+Thread 1 working on MO #23
+0.9999999999870651
+Thread 1 working on MO #24
+0.9999999999881399
+Thread 1 working on MO #25
+0.9999999999435284
+Thread 1 working on MO #26
+0.9999999999653205
+Thread 1 working on MO #27
+0.9999999999809842
+Thread 1 working on MO #28
+0.9999999999821116
+Thread 1 working on MO #29
+0.999999999983605
+Thread 1 working on MO #30
+0.9999999998833553
+Thread 1 working on MO #31
+0.9999999999853333
+Thread 1 working on MO #32
+1.0000000000563884
+Thread 1 working on MO #33
+1.0000000000544933
+Thread 1 working on MO #34
+1.0000000003652827
+Total State Error: 0.0007386735635185562
+Total Rotational Error: 5.055891295255613e-15
+Total Error: 0.000738673563523612
+Total T gates: 2.0334341211e11
+Maximum Bond Dimension: 170
+ 
+The computed error is smaller than the error budget. Try decreasing the energy to increase the error.
+ 
+ 
+Finished

@@ -1,0 +1,14 @@
+molecule ch3obr {
+        H 0.000000 0.000000 0.000000
+        C 0.000000 0.000000 1.087887
+        O 1.386054 0.000000 1.441569
+        Br 1.569589 0.000000 3.251889
+        H -0.501661 -0.892598 1.462312
+        H -0.501661 0.892598 1.462312
+}
+
+set basis cc-pvdz
+optimize('mp2')
+E, wfn = frequency('mp2',return_wfn=True)
+frequencies('mp2',  return_wfn=True)
+wfn.hessian().print_out()

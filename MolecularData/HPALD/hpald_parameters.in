@@ -1,0 +1,10 @@
+nuclei=16
+basis=3-21g
+spin=0
+electrons=62
+E_guess=4528.203125
+L_guess=100
+is_linear=false
+time=30
+num_bonds=1
+b_R=8

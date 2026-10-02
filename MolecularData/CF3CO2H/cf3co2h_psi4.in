@@ -1,0 +1,19 @@
+molecule triF {
+c 0.0912 0.6158	0.0000
+c -0.2945 -0.8813 0.0000
+o 0.8063 -1.6679 0.0000
+o -1.3969 -1.3346 0.0000
+f -1.0079 1.3557 0.0000
+f 0.8063 0.8883	1.0817
+f 0.8063 0.8883	-1.0817
+h 0.5010 -2.5780 0.0000
+}
+
+set basis cc-pvtz
+optimize('mp2')
+
+set hessian_write on
+E, wfn = frequencies('mp2',  return_wfn=True)
+frequencies('mp2',  return_wfn=True)
+wfn.hessian().print_out()
+#print(wfn.frequency_analysis['q'])

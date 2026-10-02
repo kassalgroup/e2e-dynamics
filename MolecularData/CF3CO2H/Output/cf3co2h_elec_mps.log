@@ -1,0 +1,85 @@
+CF3CO2H
+cf3co2h
+Running SCF
+SCF not converged.
+SCF energy = -509.040967248125
+Restarting SCF with second order method
+SCF not converged.
+SCF energy = -519.61715314937
+SCF complete
+HOMO index: 28
+Number of MOs found: 65
+Error tol: 0.005
+Min Energy: 4200
+Max Energy: 29400.0
+ 
+Iteration Error: 1
+Trying with energy: 4200
+Thread 1 working on MO #1
+0.9999999668992747
+Thread 1 working on MO #2
+0.9999999669196936
+Thread 1 working on MO #3
+0.999999966917633
+Thread 1 working on MO #4
+0.9999999983236366
+Thread 1 working on MO #5
+0.999999998317476
+Thread 1 working on MO #6
+1.000000000020672
+Thread 1 working on MO #7
+0.9999999999949811
+Thread 1 working on MO #8
+0.9999999976732112
+Thread 1 working on MO #9
+0.9999999976433787
+Thread 1 working on MO #10
+0.9999999975975711
+Thread 1 working on MO #11
+0.9999999998733576
+Thread 1 working on MO #12
+0.9999999999122646
+Thread 1 working on MO #13
+0.9999999999389105
+Thread 1 working on MO #14
+1.00000000000969
+Thread 1 working on MO #15
+1.0000000000301683
+Thread 1 working on MO #16
+0.9999999999211024
+Thread 1 working on MO #17
+0.9999999999911575
+Thread 1 working on MO #18
+0.9999999999931753
+Thread 1 working on MO #19
+1.000000000005673
+Thread 1 working on MO #20
+1.0000000000010838
+Thread 1 working on MO #21
+0.9999999999729938
+Thread 1 working on MO #22
+1.0000000000082376
+Thread 1 working on MO #23
+0.9999999999288731
+Thread 1 working on MO #24
+0.9999999999817176
+Thread 1 working on MO #25
+1.0000000002261336
+Thread 1 working on MO #26
+1.000000000020891
+Thread 1 working on MO #27
+1.000000000201229
+Thread 1 working on MO #28
+0.9999999997328596
+Thread 1 working on MO #29
+0.9999999999201544
+Total State Error: 0.002552344981329888
+Total Rotational Error: 3.1374633215529367e-15
+Total Error: 0.002552344981333025
+Total T gates: 1.00430879929e11
+Maximum Bond Dimension: 117
+ 
+The computed error is smaller than the error budget. Try decreasing the energy to increase the error.
+ 
+ 
+Finished

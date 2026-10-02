@@ -1,0 +1,89 @@
+BrCH2CHO
+brch2cho
+Running SCF
+SCF not converged.
+SCF energy = -2709.4135026246
+Restarting SCF with second order method
+
+WARN: HOMO -0.0070485199901330065 > LUMO -0.360414100236043 was found in the canonicalized orbitals.
+
+converged SCF energy = -2709.62091264253
+SCF complete
+HOMO index: 29
+Number of MOs found: 56
+Error tol: 0.005
+Min Energy: 50000
+Max Energy: 350000.0
+ 
+Iteration Error: 1
+Trying with energy: 50000
+Thread 1 working on MO #1
+0.9999997073228145
+Thread 1 working on MO #2
+0.9999999667923755
+Thread 1 working on MO #3
+0.9999999999929685
+Thread 1 working on MO #4
+0.9999999998875949
+Thread 1 working on MO #5
+1.0000000000312623
+Thread 1 working on MO #6
+0.9999999999999595
+Thread 1 working on MO #7
+0.9999999999817945
+Thread 1 working on MO #8
+0.999999999998943
+Thread 1 working on MO #9
+0.9999999945293995
+Thread 1 working on MO #10
+0.9999999999889396
+Thread 1 working on MO #11
+0.9999999998880946
+Thread 1 working on MO #12
+0.9999999998481892
+Thread 1 working on MO #13
+0.9999999987748164
+Thread 1 working on MO #14
+0.9999999999881903
+Thread 1 working on MO #15
+1.0000000000131999
+Thread 1 working on MO #16
+0.9999999999841186
+Thread 1 working on MO #17
+1.0000000000084612
+Thread 1 working on MO #18
+0.9999999996436468
+Thread 1 working on MO #19
+0.999999999998634
+Thread 1 working on MO #20
+0.9999999999243424
+Thread 1 working on MO #21
+0.9999999999549286
+Thread 1 working on MO #22
+0.9999999999890903
+Thread 1 working on MO #23
+0.9999999999910715
+Thread 1 working on MO #24
+0.9999999999589867
+Thread 1 working on MO #25
+0.9999999999936577
+Thread 1 working on MO #26
+0.9999999999944318
+Thread 1 working on MO #27
+0.9999999999925437
+Thread 1 working on MO #28
+0.9999999999129168
+Thread 1 working on MO #29
+0.9999999999551327
+Thread 1 working on MO #30
+1.0000000000210498
+Total State Error: 0.002736387821375926
+Total Rotational Error: 3.0968597952623913e-15
+Total Error: 0.002736387821379023
+Total T gates: 9.7855250387e10
+Maximum Bond Dimension: 108
+ 
+The computed error is smaller than the error budget. Try decreasing the energy to increase the error.
+ 
+ 
+Finished

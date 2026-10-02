@@ -1,0 +1,9 @@
+total_budget=0.095
+isp_budget=0.015
+elec_isp_budget=0.005
+pkb_budget=1e-12
+trim_budget=1e-4
+ham_budget=0.00124
+qsp_budget=1e-11
+basis_trans_budget=10e-16
+qae_qft_budget=1e-20

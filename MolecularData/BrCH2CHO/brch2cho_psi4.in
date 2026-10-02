@@ -1,0 +1,18 @@
+molecule brch2cho {
+br        -1.99170        0.41430        0.06260
+o          1.72820        0.25440        0.25740
+c         -0.44430       -0.74550        0.08130
+c          0.70780        0.07680       -0.40130
+h         -0.62580       -1.58370       -0.59300
+h         -0.28630       -1.08780        1.10550
+h          0.61880        0.49310       -1.42000
+}
+
+set basis cc-pvdz
+optimize('mp2')
+
+set hessian_write on
+E, wfn = frequencies('mp2',  return_wfn=True)
+frequencies('mp2',  return_wfn=True)
+wfn.hessian().print_out()
+#print(wfn.frequency_analysis['q'])

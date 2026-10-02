@@ -1,0 +1,90 @@
+HPALD
+hpald
+Running SCF
+SCF not converged.
+SCF energy = -390.519509569184
+Restarting SCF with second order method
+converged SCF energy = -412.645043305133
+SCF complete
+HOMO index: 31
+Number of MOs found: 88
+Error tol: 0.005
+Min Energy: 4528.203125
+Max Energy: 31697.421875
+ 
+Iteration Error: 1
+Trying with energy: 4528.203125
+Thread 1 working on MO #1
+0.9999999994203305
+Thread 1 working on MO #2
+0.9999999994043508
+Thread 1 working on MO #3
+0.9999999993343541
+Thread 1 working on MO #4
+1.0000000000092948
+Thread 1 working on MO #5
+0.9999999999957584
+Thread 1 working on MO #6
+0.9999999999923044
+Thread 1 working on MO #7
+0.9999999999918951
+Thread 1 working on MO #8
+0.9999999999593441
+Thread 1 working on MO #9
+0.9999999999632427
+Thread 1 working on MO #10
+0.9999999999411543
+Thread 1 working on MO #11
+0.999999999931571
+Thread 1 working on MO #12
+0.9999999999953132
+Thread 1 working on MO #13
+0.9999999998505825
+Thread 1 working on MO #14
+0.999999999967278
+Thread 1 working on MO #15
+0.9999999999609098
+Thread 1 working on MO #16
+1.000000000018379
+Thread 1 working on MO #17
+0.9999999999735599
+Thread 1 working on MO #18
+0.9999999999851287
+Thread 1 working on MO #19
+0.9999999999243985
+Thread 1 working on MO #20
+1.0000000001174525
+Thread 1 working on MO #21
+0.9999999999939732
+Thread 1 working on MO #22
+0.9999999998677582
+Thread 1 working on MO #23
+0.9999999999683596
+Thread 1 working on MO #24
+0.9999999999425201
+Thread 1 working on MO #25
+1.0000000000018634
+Thread 1 working on MO #26
+0.9999999999842479
+Thread 1 working on MO #27
+0.9999999999619473
+Thread 1 working on MO #28
+1.0000000001094185
+Thread 1 working on MO #29
+0.9999999999605715
+Thread 1 working on MO #30
+1.0000000000987992
+Thread 1 working on MO #31
+1.0000000000219267
+Thread 1 working on MO #32
+0.999999999969319
+Total State Error: 0.0006873833981564415
+Total Rotational Error: 3.796520747462722e-15
+Total Error: 0.000687383398160238
+Total T gates: 1.36158997657e11
+Maximum Bond Dimension: 127
+ 
+The computed error is smaller than the error budget. Try decreasing the energy to increase the error.
+ 
+ 
+Finished
