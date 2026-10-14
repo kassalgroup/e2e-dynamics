@@ -13,7 +13,7 @@ The directory `MolecularData` contains a subdirectory for each molecule listed i
 
 All equations and variables used throughout this respository have the meanings defined in [1].
 
-[![DOI](https://zenodo.org/badge/1401501675.svg)](https://doi.org/10.5281/zenodo.23355394)
+v1.0.0 of this code is archived on Zenodo at [![DOI](https://zenodo.org/badge/1401501675.svg)](https://doi.org/10.5281/zenodo.23355394)
 
 ## Citation
 
